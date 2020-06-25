@@ -35,8 +35,6 @@
 
 namespace sdf
 {
-  // Inline bracket to help doxygen filtering.
-  inline namespace SDF_VERSION_NAMESPACE {
   //
 
   /// \addtogroup sdf SDF
@@ -166,7 +164,6 @@ namespace sdf
     }
 
     return *this;
-  }
   }
 
   /// \}
